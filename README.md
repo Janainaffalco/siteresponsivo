@@ -1,2 +1,2 @@
 # siteresponsivo
-Site REsponsivo portfólio
+Site Responsivo portfólio
